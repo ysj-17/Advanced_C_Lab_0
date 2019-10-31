@@ -1,15 +1,10 @@
-// Program Name: Lab 0
+// Program Name: Vector Review
 //
 // Description:  
 //  This assignment is intended as a review of C++ features you already know. 
 //	However, please replace any use of arrays with either the new C++ array type or vectors. 
 //	Refer to the VECTOR.cpp example for code samples. This may seem, on the surface, to be a unchallenging assignment. 
 //	The challenge is to do it with 10 or fewer IF statements. Too many IF statements often indicate a poorly designed program.
-//
-// What's on your mind about this lab?
-//  I first had some confusion on how to attack the problem.
-//  I managed not to use any if statements and use Vector Tuples
-//  The solution comes out to be a lot more simpler than I imagined.
 //
 // Author: Jason Yoon
 //
